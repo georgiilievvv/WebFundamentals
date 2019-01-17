@@ -69,9 +69,8 @@ main th{
     color: white;
 }
 
-main table image{
-    width: 100%;
-    height: auto;
+main table img{
+    width: 200px;
 }
 
 main tr:nth-child(odd){
